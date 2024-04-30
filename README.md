@@ -11,27 +11,35 @@
 </div>
 
 <div align="center">
-  <img alt="Type" src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&color=FFFFFF" />
   <img alt="Type" src="https://img.shields.io/badge/react-000000?style=for-the-badge&color=FFFFFF" />
-  <img alt="Type" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/Spring Boot-000000?style=for-the-badge&color=FFFFFF" />
   <br/>
-  <img alt="Type" src="https://img.shields.io/badge/java-000000?style=for-the-badge&color=FFFFFF" />
-  <img alt="Type" src="https://img.shields.io/badge/spring-000000?style=for-the-badge&color=FFFFFF" />
-  <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&color=FFFFFF" />
   <br/>
-  <img alt="Type" src="https://img.shields.io/badge/react_native-000000?style=for-the-badge&color=FFFFFF" />
-  <img alt="Type" src="https://img.shields.io/badge/kotlin-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&color=FFFFFF" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/erick-kuwahara">
+  <a href="www.linkedin.com/in/manoj-kadam">
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
   &nbsp;
-  <a href="https://erick-kuwahara.vercel.app/">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
+   &nbsp;
+  <a href="www.youtube.com/@CodeingWithManoj">
+    <img src="https://img.shields.io/badge/Youtube20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
+   &nbsp;
+  <a href="https://www.instagram.com/codeermanoj/">
+    <img src="https://img.shields.io/badge/Instagram%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
 </div>
 
