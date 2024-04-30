@@ -26,7 +26,7 @@
 <br><br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/manoj-kadam">
+  <a href="https://www.linkedin.com/in/manoj-kadam/">
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
   &nbsp;
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
    &nbsp;
-  <a href="www.youtube.com/@CodeingWithManoj">
+  <a href="https://www.youtube.com/@CodeingWithManoj">
     <img src="https://img.shields.io/badge/Youtube20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
    &nbsp;
@@ -50,8 +50,8 @@
 <br> 
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/ErickKS/weather-app" title="Weather App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=weather-app&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  <a align="center" href="https://github.com/Manojkadam8/manoj_portfolio" title="Manoj_Portfolio">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Manojkadam8&repo=manoj_portfolio&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/ErickKS/pomodoro-timer" title="Pomodoro Timer">
