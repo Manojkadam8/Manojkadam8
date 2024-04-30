@@ -5,8 +5,8 @@
 <br />
 
 <div align=center>
-  <a href="https://github.com/ErickKS/">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true" />
+  <a href="https://github.com/Manojkadam8/">
+    <img src="https://github-readme-stats.vercel.app/api?username=Manojkadam8&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true" />
   </a>
 </div>
 
