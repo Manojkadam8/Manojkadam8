@@ -44,8 +44,10 @@
 </div>
 <br><br>
 
-<a href="https://www.github.com/Manojkadam8" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Manojkadam8?logo=github&style=for-the-badge&color=000000&labelColor=FFFFFF" /></a>
+<a align="center" href="https://www.github.com/Manojkadam8" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=000000&style=for-the-badge&color=000000&labelColor=FFFFFF" />
+</a>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=000000&style=for-the-badge" alt="Manojkadam8" /> </p>
 
 
