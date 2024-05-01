@@ -46,9 +46,11 @@ src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=0
 </div>
 <hr>
 <br>
- <b align="center" >My GitHub Stats</b>
+
  
 <div align=center>
+   <b align="center" >My GitHub Stats</b>
+  <br>
   <a href="https://github.com/Manojkadam8/">
     <img src="https://github-readme-stats.vercel.app/api?username=Manojkadam8&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true" />
   </a>
@@ -63,7 +65,7 @@ src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=0
 
 
 
-
+<hr>
 
 
 
