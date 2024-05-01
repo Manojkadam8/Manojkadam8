@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=0
 </a>
 
 <p > <img src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
-&label=Profile%20views&color=000000&labelColor=FFFFFF&style=for-the-badge" alt="Manojkadam8" /> </p>
+&label=Profile%20views&color=000000&labelColor=FFFFFF&style=for-the-badge" alt="UCFdrSW0_sTp7950tIp6zafQ" /> </p>
 
 <p > <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=000000&labelColor=FFFFFF&style=for-the-badge" alt="Manojkadam8" /> </p>
 
