@@ -54,27 +54,28 @@
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Manojkadam8&repo=manoj_portfolio&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/ErickKS/pomodoro-timer" title="Pomodoro Timer">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=pomodoro-timer&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  <a align="center" href="https://github.com/Manojkadam8/Blog_App" title="Blog App">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Manojkadam8&repo=Blog_App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
 </div>
 
 <br/>
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/ErickKS/cycle-x" title="Cycle-X">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=cycle-x&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  <a align="center" href="https://github.com/Manojkadam8/calculator" title="Calculator">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Manojkadam8&repo=calculator&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/ErickKS/health-nexus" title="Health Nexus">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=health-nexus&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  <a align="center" href="https://github.com/Manojkadam8/Tic-Tac-Toe-Game" title="Tic-Tac-Toe-Game">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Manojkadam8&repo=Tic-Tac-Toe-Game&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
 </div>
 
 <br>
 
 <h4 align="center">
-  <a href="https://github.com/ErickKS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Manojkadam8?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  
 </h4>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manoj Kadam
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
