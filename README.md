@@ -44,13 +44,14 @@
 </div>
 <br><br>
 
+<div align="center">
 <a align="center" href="https://www.github.com/Manojkadam8" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=000000&style=for-the-badge&color=000000&labelColor=FFFFFF" />
 </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=000000&style=for-the-badge" alt="Manojkadam8" /> </p>
 
-
+</div>
 <hr>
 
 <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
