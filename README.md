@@ -42,6 +42,12 @@
     <img src="https://img.shields.io/badge/Instagram%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
 </div>
+<br><br>
+
+<a href="https://www.github.com/Manojkadam8" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Manojkadam8?logo=github&style=for-the-badge&color=FFFFFF&labelColor=000000" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=000000&style=flat" alt="Manojkadam8" /> </p>
+
 
 <hr>
 
@@ -77,10 +83,6 @@
   <a href="https://github.com/Manojkadam8?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   
 
-
-<a href="https://www.github.com/Manojkadam8" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Manojkadam8?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=0e75b6&style=flat" alt="Manojkadam8" /> </p>
 
 
 
