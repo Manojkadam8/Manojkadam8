@@ -40,11 +40,9 @@
 <a  href="https://www.github.com/Manojkadam8" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=000000&style=for-the-badge&color=000000&labelColor=FFFFFF" />
 </a>
-<a  href="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
-" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
-?logo=Youtube&logoColor=000000&style=for-the-badge&color=000000&labelColor=FFFFFF" />
-</a>
+
+<p > <img src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
+&label=Profile%20views&color=000000&labelColor=FFFFFF&style=for-the-badge" alt="Manojkadam8" /> </p>
 
 <p > <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=000000&labelColor=FFFFFF&style=for-the-badge" alt="Manojkadam8" /> </p>
 
