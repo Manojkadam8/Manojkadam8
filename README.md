@@ -54,7 +54,9 @@ src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=0
   </a>
  
 
-
+<a href="https://github.com/Manojkadam8/">
+    <img src="https://github-readme-streak-stats.vercel.app/api?username=Manojkadam8&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true" />
+  </a>
 <a href="http://www.github.com/Manojkadam8"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkadam8&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
