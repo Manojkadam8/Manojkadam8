@@ -35,18 +35,18 @@
   </a>
    &nbsp;
   <a href="https://www.youtube.com/@CodeingWithManoj">
-    <img src="https://img.shields.io/badge/Youtube20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+    <img src="https://img.shields.io/badge/Youtube20-%FFFFFF.svg?&style=for-the-badge&logo=Youtube&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
    &nbsp;
   <a href="https://www.instagram.com/codeermanoj/">
-    <img src="https://img.shields.io/badge/Instagram%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+    <img src="https://img.shields.io/badge/Instagram%20-%FFFFFF.svg?&style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
 </div>
 <br><br>
 
 <a href="https://www.github.com/Manojkadam8" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Manojkadam8?logo=github&style=for-the-badge&color=FFFFFF&labelColor=000000" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=000000&style=flat" alt="Manojkadam8" /> </p>
+src="https://img.shields.io/github/followers/Manojkadam8?logo=github&style=for-the-badge&color=000000&labelColor=FFFFFF" /></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Manojkadam8&label=Profile%20views&color=000000&style=for-the-badge" alt="Manojkadam8" /> </p>
 
 
 <hr>
