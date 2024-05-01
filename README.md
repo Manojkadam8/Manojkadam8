@@ -54,11 +54,11 @@ src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=0
   </a>
  
 
-
+<br>
 <a href="http://www.github.com/Manojkadam8"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkadam8&stroke=ffffff&background=FFFFFF00&theme=dark&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<a href="https://github.com/dipayansarkar47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkadam8&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+<a href="https://github.com/Manojkadam8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkadam8&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=FFFFFF00&theme=dark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 
