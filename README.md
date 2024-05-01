@@ -1,6 +1,8 @@
 <div align=center>
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&width=520&lines=Hey+My+name+is+Manoj+Kadam;I'm+an+Java+Full+Stack +Developer" alt="Typing SVG" /></a>
 </div>
+
+<br> <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/manoj-kadam/">
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
@@ -43,7 +45,7 @@ src="https://img.shields.io/github/followers/Manojkadam8?logo=github&logoColor=0
 
 </div>
 <hr>
- <b>My GitHub Stats</b>
+ <b align=center >My GitHub Stats</b>
  
 <div align=center>
   <a href="https://github.com/Manojkadam8/">
