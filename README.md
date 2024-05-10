@@ -13,7 +13,7 @@
   </a>
    &nbsp;
   <a href="https://www.youtube.com/@CodeingWithManoj">
-    <img src="https://img.shields.io/badge/Youtube20-%FFFFFF.svg?&style=for-the-badge&logo=Youtube&logoColor=000000&color=FFFFFF" target="_blank"/>
+    <img src="https://img.shields.io/badge/Youtube-%FFFFFF.svg?&style=for-the-badge&logo=Youtube&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
    &nbsp;
   <a href="https://www.instagram.com/codeermanoj/">
